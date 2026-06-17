@@ -8,3 +8,5 @@ src/*.o
 
 # macOS
 .DS_Store
+
+.gitignore
