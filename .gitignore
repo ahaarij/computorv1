@@ -1,0 +1,10 @@
+en.subject for computorv1.pdf
+specs.md
+steps.md
+
+# Build artifacts
+computor
+src/*.o
+
+# macOS
+.DS_Store
